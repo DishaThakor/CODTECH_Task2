@@ -1,8 +1,12 @@
-# CODTECH_Task2
-
+# Task2 : DEEP LEARNING PROJECT
+Company : CODTECH IT SOLUTIONS 
+Name : Disha Rageshkumar Thakor 
+Intern ID : CT08VPQ 
+Domain : Data Science 
+Duration : 4 weeks
 
 ✅ Project Description
-This project involves implementing a Deep Learning model for either Image Classification or Natural Language Processing (NLP) tasks. The model is built using TensorFlow (or PyTorch) and includes data preprocessing, model training, evaluation, and visualizations of the results (accuracy and loss plots).
+This project involves implementing a Deep Learning model for either Image Classification. The model is built using TensorFlow (or PyTorch) and includes data preprocessing, model training, evaluation, and visualizations of the results (accuracy and loss plots).
 
 ✅ Tools & Libraries Used
 Python
